@@ -1,0 +1,23 @@
+{
+  "name": "hello-js-zoltan-meleg-generali",
+  "version": "1.0.0",
+  "description": "## Story",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Codecool-B2B-Generali/hello-js-zoltan-meleg-generali.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Codecool-B2B-Generali/hello-js-zoltan-meleg-generali/issues"
+  },
+  "homepage": "https://github.com/Codecool-B2B-Generali/hello-js-zoltan-meleg-generali#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
